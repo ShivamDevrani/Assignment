@@ -52,6 +52,10 @@ app.get('/listSchools',async(req,res)=>{
      return res.status(200).json(schools);
 })
 
+app.get('/',(req,res)=>{
+    res.json({message:"server is live,you can send your send your req"});
+})
+
 
 app.listen(3000,()=>{
     console.log('server is live');
