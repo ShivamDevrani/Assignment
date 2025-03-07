@@ -27,3 +27,24 @@ Retrieves a list of schools based on the provided latitude and longitude.
 #### Example Request
 ```bash
 GET /listSchool?latitude=19.0760&longitude=72.8777
+
+## Example JSON Data
+
+```json
+[
+    {
+        "id": 1,
+        "name": "Kendriya Vidyalaya No.1",
+        "address": "Near Railway Colony, Mumbai",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+    },
+    {
+        "id": 2,
+        "name": "Delhi Public School",
+        "address": "Sector 12, Delhi",
+        "latitude": 28.7041,
+        "longitude": 77.1025
+    }
+]
+
