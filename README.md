@@ -22,7 +22,6 @@ GET /listSchool?latitude=19.0760&longitude=72.8777
 ```
 
     {
-        "id": 1,
         "name": "Kendriya Vidyalaya No.1",
         "address": "Near Railway Colony, Mumbai",
         "latitude": 19.0760,
