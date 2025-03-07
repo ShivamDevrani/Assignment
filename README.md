@@ -27,10 +27,9 @@ Retrieves a list of schools based on the provided latitude and longitude.
 #### Example Request
 ```bash
 GET /listSchool?latitude=19.0760&longitude=72.8777
-
+```
 ## Example JSON Data
-
-```json
+---
 [
     {
         "id": 1,
