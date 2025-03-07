@@ -1,5 +1,5 @@
 ### NOTE--->
-I have hosted this one Render so render free services may take time at starting but once server started it will run fine..
+I have hosted My server on  Render, so render free services may take time at starting but once the server started, then it will run fine..
 
 # School Management API
 
@@ -39,5 +39,12 @@ Click the link below to access the Postman collection:
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://assignment-link.postman.co/workspace/ShivamDevraniAssignment~4c36e284-8895-49f1-b4ed-5cc5678ddd2e/request/32999626-1285cf71-0d74-4f11-b96e-9ddfd652baa0?action=share&creator=32999626&ctx=documentation)
 
 ### Hosting Information
-This API's hosted on Render 
-MySql database hosted on Cloud Clever 
+This API's hosted on Render ,
+ MySql database hosted on Cloud Clever 
+
+ ## Some Screenshots
+
+### Example Image
+
+![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/images/.png)
+
