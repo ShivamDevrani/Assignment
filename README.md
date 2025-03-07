@@ -30,4 +30,8 @@ GET /listSchool?latitude=19.0760&longitude=72.8777
     } 
 
 ```
+## Postman Collection
 
+Click the link below to access the Postman collection:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://assignment-link.postman.co/workspace/ShivamDevraniAssignment~4c36e284-8895-49f1-b4ed-5cc5678ddd2e/request/32999626-1285cf71-0d74-4f11-b96e-9ddfd652baa0?action=share&creator=32999626&ctx=documentation)
