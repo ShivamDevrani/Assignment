@@ -43,8 +43,7 @@ This API's hosted on Render ,
  MySql database hosted on Cloud Clever 
 
  ## Some Screenshots
-
-### Example Image
-
+ 
 ![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/schema.png)
+![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/getList.png)
 
