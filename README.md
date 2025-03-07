@@ -46,5 +46,5 @@ This API's hosted on Render ,
 
 ### Example Image
 
-![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/images/.png)
+![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/schema.png)
 
