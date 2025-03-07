@@ -45,5 +45,6 @@ This API's hosted on Render ,
  ## Some Screenshots
  
 ![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/schema.png)
-![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/getList.png)
+
+![Alt Text](https://raw.githubusercontent.com/ShivamDevrani/Assignment/main/getLIST.png)
 
