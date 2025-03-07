@@ -16,6 +16,8 @@ Retrieves a list of schools based on the provided latitude and longitude.
 ```bash
 GET /listSchool?latitude=19.0760&longitude=72.8777
 ```
+### POST `/addSchool`
+
 #### Example Payload Data in body for POST request
 ```
 
@@ -28,3 +30,4 @@ GET /listSchool?latitude=19.0760&longitude=72.8777
     } 
 
 ```
+
