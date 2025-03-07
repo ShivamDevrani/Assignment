@@ -29,7 +29,7 @@ Retrieves a list of schools based on the provided latitude and longitude.
 GET /listSchool?latitude=19.0760&longitude=72.8777
 ```
 ## Example JSON Data
----
+```
 [
     {
         "id": 1,
@@ -46,4 +46,4 @@ GET /listSchool?latitude=19.0760&longitude=72.8777
         "longitude": 77.1025
     }
 ]
-
+```
