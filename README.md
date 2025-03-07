@@ -8,7 +8,7 @@ This API allows you to manage schools by listing them based on geographic coordi
 
 ## Routes
 
-### GET `/listSchool`
+### GET `/listSchools`
 Retrieves a list of schools based on the provided latitude and longitude.
 
 #### Query Parameters
